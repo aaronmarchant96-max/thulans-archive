@@ -5,6 +5,7 @@ tags:
   - canon
   - arcology
   - fairguni
+  - map
 ---
 
 # The Mountain (*Faírguni*)
@@ -14,68 +15,71 @@ tags:
 
 ---
 
-## 🗺️ Canonical Architectural Cross-Section
+## 🗺️ Architectural Elevation Base Map
 
-![Faírguni Elevation Cross-Section](assets/fairguni_cross_section_plate.jpg)
+![Faírguni Arcology Map (16:9 Clean)](assets/fairguni_arcology_map_16x9.jpg)
 
-<div style="margin: 2rem 0; border: 1px solid #334155; border-radius: 8px; overflow: hidden; background: #0e1013;">
-  <img src="assets/fairguni_cross_section_map.svg" alt="Fairguni Sector Blueprint & Axis Map" style="width: 100%; height: auto; display: block;" />
-</div>
+*Downloadable full-resolution base map available at:* `Fairguni_Arcology_Map_Clean_16x9.jpg` *and* `Fairguni_Arcology_Map_Clean_4x3.jpg`.
 
 ---
 
-## 🧭 The Spatial Coordinate System
+## 🧭 In-World Spatial Coordinate System
 
-Because human civilization inside Fairguni is stacked vertically inside an enclosed volcanic massif with no accessible sky, traditional cardinal directions (North, South, East, West) have no meaning to ordinary citizens. Space is measured along two primary axes:
+Space inside Fairguni is stacked vertically within a closed volcanic arcology. Cardinal directions are replaced by four structural vectors:
 
-| Direction | Orientation | Functional Meaning |
+| Vector | Heading | Operational Meaning |
 | :--- | :--- | :--- |
-| **Up-Mountain** | $\uparrow$ Ascending | Toward the Spire, council registries, filtered atmospheric air, and the summit ark gantries. |
-| **Down-Mountain** | $\downarrow$ Descending | Toward the industrial sumps, Lower Four, heavy ore drifts, standing water, and black-damp. |
-| **Coreward** | $\rightarrow$ Central | Toward the central volcanic chimney, geothermal heat pipes, and the Volcanic Shear. |
-| **Rimward** | $\leftarrow$ Flank | Toward the outer perimeter walls, dead abandoned galleries, and external storm-cloud vents. |
+| **Up-Mountain** | $\uparrow$ Ascending | Toward the Spire, filtered atmospheric intake, registry archives, and summit ark gantries. |
+| **Down-Mountain** | $\downarrow$ Descending | Toward the deep hearths, Lower Four, heavy industrial sumps, standing water, and black-damp. |
+| **Coreward** | $\rightarrow$ Inward | Toward the central volcanic chimney, geothermal heat pipes, and the Volcanic Shear. |
+| **Rimward** | $\leftarrow$ Outward | Toward the outer mountain flanks, cold dead galleries, and external cloud vents. |
+
+---
+
+## 📍 World Anvil & Archive Pin Directory
+
+Use this reference to place interactive markers directly onto the clean base map:
+
+```
+[+4,200m] ─── ⚓ SUMMIT ARK GANTRIES (Dreadnoughts I–VI; 600k capacity)
+                │
+[+3,500m] ─── 🏛️ TIER NINE BALCONY (Theodemir / Ministry of Allocation)
+                │
+[+2,800m] ─── 💧 GREAT NORTH AQUEDUCT (30-mile pressurized intake flues)
+                │
+[+2,200m] ─── 🔨 FOUNDRY BAY NINE (Heavy blast furnaces & scrap skips)
+                │
+[+1,400m] ─── 🌲 TIMBERMEN GUILD (Fossilized trunks; 40k workers)
+                │
+[  +800m] ─── 🍄 BRACKET-FUNGUS CAVERNS (Caloric ration mash vats)
+                │
+[  +150m] ─── 🛑 SHAFT 44 (Magnetite sill breach; Varek's stand)
+                │
+[  -100m] ─── ⚒️ DRIFT 14 (Kaelen's forge & Bram's record desk)
+                │
+[  -250m] ─── 👶 COMMUNAL NURSERY (Hand-cranked drainage pump)
+                │
+[  -400m] ─── 📜 AZG-HAÍMS (Volcanic Shear life-tithe desk)
+                │
+[-1,200m] ─── 🌋 RISING MAGMA FRONT (11–28 year breach clock)
+```
 
 ---
 
 ## ⚙️ The Living Corpse Demographic (10:1 Contraction)
 
-* **Peak Engineered Capacity:** ~42,000,000 inhabitants (engineered ~3,000 years ago during the high-tech zenith).
-* **Current Surviving Population:** **~4,200,000 inhabitants**.
-* **The Structural Reality:** Ten people inhabit infrastructure engineered for a hundred. Fairguni is not an overcrowded hive; it is an **enormous dying machine** where dense surviving communities are isolated islands surrounded by vast dark silences:
+* **Peak Historical Capacity:** ~42,000,000 (arcology engineered at peak ~3,000 years ago).
+* **Current Surviving Population:** **~4,200,000 Thulans**.
+* **The Living Corpse Reality:** Ten people inhabit infrastructure engineered for a hundred. Surviving districts are isolated islands in dark basalt silence:
   * Miles of heavy lift trunks are welded shut to conserve power.
-  * Transit platforms sized for millions now host dozens.
+  * Transit platforms sized for millions now host small shift crews.
   * Municipal aqueducts built for eight million carry a pressurized trickle.
-  * Vaulted communal dining halls built for two thousand seat eighty.
-
----
-
-## 🏛️ The Four Primary Strata
-
-### 1. The Summit & The Spire (Elev. +3,200m to +4,500m)
-* **The Exodus Ark Yards:** High gantry docks cradling the six atmospheric dreadnoughts (*Arks I through VI*). Total evacuation capacity is strictly capped at **600,000 berths** (~14.3% survival ratio). Approximately 3.6 million Thulans cannot leave.
-* **Tier Nine Command Balcony:** The administrative seat of Theodemir and the Ministry of Allocation. Overlooks the chasm of the central volcanic rift.
-* **The High Archives:** Air-filtered ledgers tracking caloric allowances, water quotas, and the Life Tithe. Citizens here breathe filtered atmospheric air and consume clean wheat bread.
-
-### 2. The Upper Works & Foundries (Elev. +1,800m to +3,200m)
-* **Great North Aqueduct:** The thirty-mile intake flues that supply pressurized water to the surviving 4.2 million.
-* **Foundry Bay Nine:** Heavy blast furnaces, rolling mills, and guild machine shops. Site where the drift smith Kaelen scavenged the bronze impeller used to build unmetered drainage pumps.
-* **Heavy Rolling Works:** Where guild ironwrights manufacture boiler shells and structural shoring pins.
-
-### 3. The Timber Flues & Mid-Levels (Elev. +600m to +1,800m)
-* **The Timbermen Guild:** Approximately 40,000 specialized loggers working fossilized subterranean tree trunks. Timber debt, shoring shortages, and timber strike threats govern the safety of all lower drifts.
-* **Bracket-Fungus Farms:** Massive horizontal cavern beds growing caloric mash, sawdust cakes, and algae vats that feed the industrial workforce.
-* **Cable Skip Terminals:** The counterweighted haulage skip system that moves raw ore upward and timber downward.
-
-### 4. Lower Four & The Deep Hearths (Elev. -400m to +600m)
-* **Shaft 44:** Banded magnetite-ironstone (*blôþ-stáin* / hematite skarn). The canon site of the catastrophic roof collapse where Varek Fairgunjis braced his three-tonne frame to protect Sanna and six infants.
-* **Drift 14:** The working heart of the lower smithies, housing Kaelen’s forge and Bram’s record desk.
-* **The Communal Nursery:** The flooded lower-drift shelter where Varek's salvaged bilge pump was retrofitted for hand operation.
-* **Azg-Haíms:** The precinct of the Volcanic Shear where young miners surrender their life-tithes (e.g. Wulfila’s 41 winters of sweet water).
+  * Communal halls engineered for two thousand seat eighty.
 
 ---
 
 ## 🌋 The Encroachment Clock
 
-While the Mountain possesses 30–50 years of recoverable iron and copper ore, the rising magma chamber beneath the lower hearths will breach the deep sumps in **11 to 28 years**. 
+While recoverable iron and copper ore remains for 30–50 years, the subterranean magma chamber rising beneath the lower hearths will breach the deep sumps in **11 to 28 years** ([RULING 004](file:///home/aaron/repos/thulans-production/RULINGS.md#ruling-004-the-mountain-fairguni--the-great-acceleration)). 
 
-This geological reality is the **hidden clock** behind the Council’s acceleration of the atmospheric arks: *the people destroying the Mountain fastest are doing so precisely because they know it is dying.*
+This geological reality is the hidden clock behind the Council's priority construction of the six evacuation arks: *the authorities accelerating production are doing so precisely because they know the Mountain cannot be saved.*
